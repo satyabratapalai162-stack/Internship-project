@@ -21,6 +21,8 @@ This repository contains tasks and projects completed during my internship progr
 - [Task 3](https://restosmart-2.preview.emergentagent.com/)
 - Assignments -https://agent.jotform.com/019c85511f117eccbafa5c09752913a3bfbf
 - Assignments 2 - https://aistudio.google.com/apps/888bb117-d462-4a85-af9b-56f4000b81d9?showPreview=true&showAssistant=true&fullscreenApplet=true&appParams=features
+- Assignments 3(module1) - https://aistudio.google.com/apps/e53b304c-f418-4200-ad52-a88c7edede6f?showPreview=true&showAssistant=true
+- Assignments 3(module2) - https://aistudio.google.com/apps/0ab94ba6-7286-4f7c-b652-ab4b928308fb?showPreview=true&showAssistant=true&project=gen-lang-client-0599210073
 - Practice Work
 
 ## 🚀 Purpose
