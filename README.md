@@ -25,6 +25,10 @@ This repository contains tasks and projects completed during my internship progr
 - Assignments 3(module2) - https://aistudio.google.com/apps/0ab94ba6-7286-4f7c-b652-ab4b928308fb?showPreview=true&showAssistant=true&project=gen-lang-client-0599210073
 - Practice Work
 
+code alpha[task 1]- https://claude.ai/public/artifacts/ae94c50b-cc0c-444e-bf47-a4b36a814f32
+
+code alpha[task 3]- https://claude.ai/public/artifacts/0256fda9-0f53-477c-a1ac-a3780286a96e
+
 ## 🚀 Purpose
 The purpose of this repository is to track my learning progress and internship task submissions.
 
